@@ -11,6 +11,5 @@ Watir-Webdriver: http://watirwebdriver.com/
 
 
 TODOS:
-Add a GemFile
-Fix formatting on windoze
+Add a Rakefile with cucumber task and bundle install so we don't have to worry about dependencies
 
